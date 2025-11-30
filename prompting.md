@@ -23,23 +23,11 @@ Now based on the specification.md write tests that test all the requirements tha
 
 The result after this was, that it created the tests, including edge cases throughtly, and based on the results it iteratively fixed the backend code.
 
+### Creating the frontend
+
 ```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
+okay. now your next task is that using npx create-next-app@latest commdn in the /frontend folder. there you first scaffold the app, review the new folder structure, delete unnecessary starter page files, and you create the interface that fully complies with the specification attached. Also take the backend code you wrote earlier into consideration. Be precise and create a simple user interface using react bootstrap.
 ```
-```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
-```
-```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
-```
-```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
-```
-```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
-```
-```text
-This is the specification of the sofware you need to write. You need to use FastAPI with Python to code the server logic in the /backend folder. Be precise about the expectations. Start by first writing the server code in the /backend folder.
-```
+After this prompt, the Codex Agent used the scaffold command I tipped (this ensures it does not use deprecated scaffolding), and by itself, created a simple yet fully functional calculator.
 
 
